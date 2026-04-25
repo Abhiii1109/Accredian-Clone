@@ -3,7 +3,10 @@
 An Awwwards-tier, high-performance editorial platform built with **Next.js**, **GSAP**, and **Tailwind CSS**. This project is a partial clone of the Accredian Enterprise landing page, reimagined with an "Obsidian Luxury" design language.
 
 ## 🚀 Live Demo
-**[Insert Your Vercel Link Here]**
+**[https://accredian-clone-bice.vercel.app/](https://accredian-clone-bice.vercel.app/)**
+
+## 📂 Repository
+**[https://github.com/Abhiii1109/Accredian-Clone](https://github.com/Abhiii1109/Accredian-Clone)**
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js 14 (App Router)
