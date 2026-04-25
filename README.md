@@ -45,7 +45,7 @@ This project was built using **Antigravity (Google DeepMind)** as an advanced ag
 
 1. **Clone the Repository:**
    ```bash
-   git clone [your-github-repo-link]
+   git clone https://github.com/Abhiii1109/Accredian-Clone
    cd Accredian-Clone
    ```
 
